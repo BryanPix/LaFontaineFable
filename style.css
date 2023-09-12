@@ -8,8 +8,8 @@ h1,h2,p{
 
 h1,h2,p,.LoupAgneau{
     display: flex;
-    /* align-items: center; */
     justify-content: center;
+    /* align-items: center; */
 }
 img{
     border: 5px solid #555;
